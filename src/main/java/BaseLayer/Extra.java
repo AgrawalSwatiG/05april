@@ -8,5 +8,13 @@ public class Extra {
 		System.out.println("extra");
 
 	}
+	
+	
+	public void abc() {
+		
+		System.out.println("extra");
+
+		
+	}
 
 }
